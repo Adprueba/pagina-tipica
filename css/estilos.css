@@ -7,12 +7,13 @@ font-family: 'Roboto', sans-serif;
 /*Fuente corporativa*/
 @font-face {
     font-family: 'Cooper Black';
-    src: url('../fonts/COOPBL.eot');
-    src: url('../fonts/COOPBL.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/COOPBL.woff2') format('woff2'),
-         url('../fonts/COOPBL.woff') format('woff'),
-         url('../fonts/COOPBL.ttf')  format('truetype'),
-         url('../fonts/COOPBL.svg#Cooper Black') format('svg');
+
+    src: url("../fuentes/fonts/COOPBL.eot");
+    src: url('../fuentes/fonts/COOPBL.eot?#iefix') format('embedded-opentype'),
+         url('../fuentes/fonts/COOPBL.woff2') format('woff2'),
+         url('../fuentes/fonts/COOPBL.woff') format('woff'),
+         url('../fuentes/fonts/COOPBL.ttf')  format('truetype'),
+         url('../fuentes/fonts/COOPBL.svg#Cooper Black') format('svg');
 }
 
 
